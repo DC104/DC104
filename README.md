@@ -1,4 +1,4 @@
-![Debosmita Chakraborty (2)]([https://www.canva.com/design/DAGQRNXfouk/GsI_pj3EbEWQQfFQiXYg2g/view?utm_content=DAGQRNXfouk&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://github.com/DC104/DC104/blob/main/Pink%20Purple%20Gradient%20Minimal%20Cosmetics%20Studio%20LinkedIn%20Article%20Cover%20Image.jpg))
+![Debosmita Chakraborty (2)](https://github.com/DC104/DC104/blob/main/Pink%20Purple%20Gradient%20Minimal%20Cosmetics%20Studio%20LinkedIn%20Article%20Cover%20Image.jpg)
 # 💫Hello Everyone 👋, I'm Debosmita:
 Hi Viewers 👋, I'm Debosmita Chakraborty<br>A passionate frontend developer from India<br>coding<br><br>🔭 I’m currently working on TravelLodge<br><br>🌱 I’m currently learning Data Structures, Full-stack development with MERN stack , cloud computing , and Algorithms using C++ ,<br><br>💬 Ask me about HTML , CSS , JAVASCRIPT<br><br>📫 How to reach me debosmitachakraborty11@gmail.com<br><br>⚡ Fun fact I am little enthusiastic and Daydreamer<br><br>⚡I am proficient in Bengali , English and Hindi , currently learning Italian from Duolingo.
 
