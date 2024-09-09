@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Debosmita Chakraborty<br>A passionate frontend developer from India<br>coding<br><br>🔭 I’m currently working on TravelLodge<br><br>🌱 I’m currently learning Data Structures, Full-stack development with MERN stack , cloud computing , and Algorithms using C++ ,<br><br>💬 Ask me about HTML , CSS , JAVASCRIPT<br><br>📫 How to reach me debosmitachakraborty11@gmail.com<br><br>⚡ Fun fact I am little enthusiastic and Daydreamer
+Hi Viewers 👋, I'm Debosmita Chakraborty<br>A passionate frontend developer from India<br>coding<br><br>🔭 I’m currently working on TravelLodge<br><br>🌱 I’m currently learning Data Structures, Full-stack development with MERN stack , cloud computing , and Algorithms using C++ ,<br><br>💬 Ask me about HTML , CSS , JAVASCRIPT<br><br>📫 How to reach me debosmitachakraborty11@gmail.com<br><br>⚡ Fun fact I am little enthusiastic and Daydreamer
 
 
 ## 🌐 Socials:
