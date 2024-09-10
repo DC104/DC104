@@ -1,5 +1,6 @@
 ![Debosmita Chakraborty (2)](https://github.com/DC104/DC104/blob/main/Pink%20Purple%20Gradient%20Minimal%20Cosmetics%20Studio%20LinkedIn%20Article%20Cover%20Image.jpg)
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> I'm Debosmita</h1>
+<h3 align="center">An Enthusiastic web Developer | and generative ai enthusiast</h3>
 Hi Viewers 👋, I'm Debosmita Chakraborty , a passionate frontend developer from India , eager to immerse myself in tech field. Feel free to watch my projects which I have uploaded and if any issue arise , feel free to let  me know . Thank you ! <br><br>🔭 I’m currently working on TravelLodge( A fullstack website)<br><br>🌱 I’m currently learning Data Structures, Full-stack development with MERN stack , cloud computing , and Algorithms using C++ ,<br><br>💬 Ask me about HTML , CSS , JAVASCRIPT<br><br>📫 How to reach me debosmitachakraborty11@gmail.com<br><br>⚡ Fun fact I am little enthusiastic and Daydreamer<br><br>⚡And also I love Korean pop and Korean dramas <br><br>⚡I am proficient in Bengali , English and Hindi , currently learning Italian from Duolingo.
 
 
