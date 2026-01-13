@@ -26,5 +26,7 @@ Hi Viewers 👋, I'm Debosmita Chakraborty , a passionate frontend developer fro
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DC104&icon=1&color=5)](https://visitcount.itsvg.in)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=DC104)
+
 
 
